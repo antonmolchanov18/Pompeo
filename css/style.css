@@ -112,7 +112,7 @@ body {
 }
 
 .bg-image {
-  background-image: url(/img/bg.svg);
+  background-image: url(../img/bg.svg);
   max-height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
@@ -250,7 +250,7 @@ body {
 }
 
 .first-img {
-  background-image: url(/img/img-bg1.svg);
+  background-image: url(../img/img-bg1.svg);
 }
 
 .img-icon {
@@ -276,11 +276,11 @@ body {
 }
 
 .second-img {
-  background-image: url(/img/image-bg2.svg);
+  background-image: url(../img/image-bg2.svg);
 }
 
 .third-img {
-  background-image: url(/img/image-bg3.svg);
+  background-image: url(../img/image-bg3.svg);
 }
 
 .product-options {
@@ -344,7 +344,7 @@ body {
 }
 
 .bg-catalog {
-  background-image: url(/img/rectangle.jpg);
+  background-image: url(../img/rectangle.jpg);
   background-repeat: no-repeat;
   width: 500px;
   height: 220px;
@@ -354,7 +354,7 @@ body {
 }
 
 .img_black-pottery {
-  background-image: url(/img/gold-black-pottery.png);
+  background-image: url(../img/gold-black-pottery.png);
   background-repeat: no-repeat;
   width: 250px;
   height: 509px;
@@ -413,7 +413,7 @@ body {
 }
 
 .img_orange-pottery {
-  background-image: url(/img/orange-geramic.png);
+  background-image: url(../img/orange-geramic.png);
   background-repeat: no-repeat;
   width: 350px;
   height: 417px;
@@ -452,27 +452,27 @@ body {
 }
 
 .decor {
-  background-image: url(/img/decor.jpg);
+  background-image: url(../img/decor.jpg);
 }
 
 .mint {
-  background-image: url(/img/mint.jpg);
+  background-image: url(../img/mint.jpg);
 }
 
 .set {
-  background-image: url(/img/set.jpg);
+  background-image: url(../img/set.jpg);
 }
 
 .orange {
-  background-image: url(/img/orange.jpg);
+  background-image: url(../img/orange.jpg);
 }
 
 .dark {
-  background-image: url(/img/black.jpg);
+  background-image: url(../img/black.jpg);
 }
 
 .square {
-  background-image: url(/img/square.jpg);
+  background-image: url(../img/square.jpg);
 }
 
 .product-link {
@@ -511,7 +511,7 @@ body {
 
 .shopping {
   height: 471px;
-  background-image: url(/img/shopping.jpg);
+  background-image: url(../img/shopping.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
 }
@@ -557,7 +557,7 @@ body {
 }
 
 .wrapper-icon {
-  background-image: url(/img/news.jpg);
+  background-image: url(../img/news.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
   height: 80px;
@@ -762,7 +762,7 @@ body {
 }
 
 .email-img {
-  background-image: url(/img/email.svg);
+  background-image: url(../img/email.svg);
 }
 
 .contacts-img__wrap {
@@ -791,11 +791,11 @@ body {
 }
 
 .find-img {
-  background-image: url(/img/find.svg);
+  background-image: url(../img/find.svg);
 }
 
 .call-img {
-  background-image: url(/img/call.svg);
+  background-image: url(../img/call.svg);
 }
 
 А .template-design {
